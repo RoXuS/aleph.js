@@ -2,7 +2,7 @@
  * TypeScript AST Transformer for useDeno hook.
  */
 
-import ts from 'https://esm.sh/typescript@4.1.2'
+import ts from 'https://esm.sh/typescript@4.1.2?target=deno'
 
 const f = ts.factory
 

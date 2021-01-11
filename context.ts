@@ -1,4 +1,4 @@
-import { createContext } from 'https://esm.sh/react'
+import { createContext } from 'https://esm.sh/react?target=deno'
 import type { RouterURL } from './types.ts'
 
 export const RouterContext = createContext<RouterURL>({

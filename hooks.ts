@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'https://esm.sh/react'
+import React, { useContext, useEffect, useState } from 'https://esm.sh/react?target=deno'
 import { RouterContext } from './context.ts'
 import { AsyncUseDenoError } from './error.ts'
 import events from './events.ts'

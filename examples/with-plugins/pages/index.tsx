@@ -1,4 +1,4 @@
-import React from 'https://esm.sh/react'
+import React from 'https://esm.sh/react?target=deno'
 import wasm from './42.wasm'
 import './style.sass'
 

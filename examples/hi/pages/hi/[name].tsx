@@ -1,5 +1,5 @@
 import { Import, useDeno, Link, useRouter } from 'https://deno.land/x/aleph/mod.ts'
-import React from 'https://esm.sh/react'
+import React from 'https://esm.sh/react?target=deno'
 import Logo from '../../components/logo.tsx'
 
 export default function Home() {

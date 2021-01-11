@@ -1,4 +1,4 @@
-import React from 'https://esm.sh/react'
+import React from 'https://esm.sh/react?target=deno'
 import Head from './head.ts'
 
 export class ErrorBoundary extends React.Component {

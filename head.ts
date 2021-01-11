@@ -1,4 +1,4 @@
-import React, { Children, createElement, isValidElement, PropsWithChildren, ReactElement, ReactNode, useContext, useEffect } from 'https://esm.sh/react'
+import React, { Children, createElement, isValidElement, PropsWithChildren, ReactElement, ReactNode, useContext, useEffect } from 'https://esm.sh/react?target=deno'
 import { RendererContext } from './context.ts'
 import util from './util.ts'
 

@@ -1,4 +1,4 @@
-import React, { ComponentType, useCallback, useEffect, useRef, useState } from 'https://esm.sh/react'
+import React, { ComponentType, useCallback, useEffect, useRef, useState } from 'https://esm.sh/react?target=deno'
 import { RouterContext } from './context.ts'
 import { E400MissingDefaultExportAsComponent, E404Page, ErrorBoundary } from './error.ts'
 import events from './events.ts'

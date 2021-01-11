@@ -1,4 +1,4 @@
-import runtime from 'https://esm.sh/react-refresh@0.8.3/runtime'
+import runtime from 'https://esm.sh/react-refresh@0.8.3/runtime?target=deno'
 import events from './events.ts'
 import util, { hashShort } from './util.ts'
 

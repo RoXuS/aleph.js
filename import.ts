@@ -1,4 +1,4 @@
-import React, { ComponentType, ReactElement, useEffect, useState } from 'https://esm.sh/react'
+import React, { ComponentType, ReactElement, useEffect, useState } from 'https://esm.sh/react?target=deno'
 import util, { reModuleExt } from './util.ts'
 
 interface ImportProps {

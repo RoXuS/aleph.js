@@ -1,4 +1,4 @@
-import type { ComponentType } from 'https://esm.sh/react'
+import type { ComponentType } from 'https://esm.sh/react?target=deno'
 import { E400MissingDefaultExportAsComponent } from './error.ts'
 import type { RouterURL } from './types.ts'
 import util, { reMDExt, reModuleExt } from './util.ts'

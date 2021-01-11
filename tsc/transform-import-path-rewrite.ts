@@ -1,4 +1,4 @@
-import ts from 'https://esm.sh/typescript@4.1.2'
+import ts from 'https://esm.sh/typescript@4.1.2?target=deno'
 
 /**
  * TS AST transformer to rewrite import path.

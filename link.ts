@@ -1,4 +1,4 @@
-import React, { Children, cloneElement, ComponentType, CSSProperties, isValidElement, MouseEvent, PropsWithChildren, ReactElement, useCallback, useEffect, useMemo, useState } from 'https://esm.sh/react'
+import React, { Children, cloneElement, ComponentType, CSSProperties, isValidElement, MouseEvent, PropsWithChildren, ReactElement, useCallback, useEffect, useMemo, useState } from 'https://esm.sh/react?target=deno'
 import { redirect } from './aleph.ts'
 import events from './events.ts'
 import { useRouter } from './hooks.ts'

@@ -1,5 +1,5 @@
 import { Head, Link } from 'https://deno.land/x/aleph/mod.ts'
-import React from 'https://esm.sh/react'
+import React from 'https://esm.sh/react?target=deno'
 
 export default function About() {
     return (

@@ -1,7 +1,7 @@
-import React, { useState } from 'https://esm.sh/react'
+import React, { useState } from 'https://esm.sh/react?target=deno'
 
 export default function Logo({ width = 75 }: { width?: number }) {
-   const [height, setHeight] =  useState(width)
+    const [height, setHeight] = useState(width)
 
 
     return (

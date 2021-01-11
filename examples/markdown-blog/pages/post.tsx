@@ -1,5 +1,5 @@
 import { Head, Link } from 'https://deno.land/x/aleph/mod.ts'
-import React, { ComponentType } from 'https://esm.sh/react'
+import React, { ComponentType } from 'https://esm.sh/react?target=deno'
 
 interface Metadata {
     title: string

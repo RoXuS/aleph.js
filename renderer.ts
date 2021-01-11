@@ -1,5 +1,5 @@
-import React, { ComponentType, ReactElement } from 'https://esm.sh/react'
-import { renderToString } from 'https://esm.sh/react-dom/server'
+import React, { ComponentType, ReactElement } from 'https://esm.sh/react?target=deno'
+import { renderToString } from 'https://esm.sh/react-dom/server?target=deno'
 import { RendererContext, RouterContext } from './context.ts'
 import { AsyncUseDenoError, E400MissingDefaultExportAsComponent, E404Page } from './error.ts'
 import events from './events.ts'
